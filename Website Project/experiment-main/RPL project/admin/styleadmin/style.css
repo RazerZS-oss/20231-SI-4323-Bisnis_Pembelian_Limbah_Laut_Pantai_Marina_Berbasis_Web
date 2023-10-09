@@ -1,0 +1,9 @@
+.nav-link:hover{
+    background-color: grey;
+}
+
+.nav li {
+    border-bottom: 1px solid grey;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+  }
